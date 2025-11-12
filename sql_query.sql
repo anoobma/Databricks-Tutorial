@@ -1,0 +1,1 @@
+select * from workspace.titanic_dataset.titanic limit 10;
